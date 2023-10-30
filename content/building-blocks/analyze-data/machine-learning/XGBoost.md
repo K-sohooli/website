@@ -32,6 +32,7 @@ In what follows, we use [this dataset from Kaggle](https://www.kaggle.com/datase
 library(xgboost)
 library(tidyverse)
 library(caret)
+library(tidyverse)
 
 # Open the dataset 
 data <- read.csv("../all_v2.csv", nrows = 7500)
