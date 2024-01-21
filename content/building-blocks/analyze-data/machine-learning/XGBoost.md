@@ -429,6 +429,7 @@ Which results in the following graph, from which it can be see that `kitchen_are
 </p>
 
 
+
 ### Visualization
 
 In order to visualize the created tree (using the hyperparameters found in the grid search), let's run the next line of code:
